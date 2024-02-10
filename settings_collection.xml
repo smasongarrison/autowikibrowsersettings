@@ -1,0 +1,10 @@
+      <Replacement>
+        <Find>the\ Disabled</Find>
+        <Replace>disabled people</Replace>
+        <Comment />
+        <IsRegex>false</IsRegex>
+        <Enabled>false</Enabled>
+        <Minor>false</Minor>
+        <BeforeOrAfter>false</BeforeOrAfter>
+        <RegularExpressionOptions>None</RegularExpressionOptions>
+      </Replacement>
